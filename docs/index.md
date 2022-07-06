@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Pinable SDK documentation Pages
 
-You can use the [editor on GitHub](https://github.com/hoahuong/documentation/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+In the first, please contact to supporter from SwitchSmile company to get the SDK binary and key file or your can download [at here](https://github.com/hoahuong/documentation/edit/main/docs/index.md).
+
+Follow the next step to include the Pinable SDK to you application project.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
